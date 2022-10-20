@@ -12,4 +12,4 @@
   The components of Swing are platform-independent, i.e., swing doesn't depend on the operating system to show the components. Also, the Swing's components are lightweight.
 
 # Conclusion
-  By now I’m sure you understand exactly how our traversal algorithm could generate the path shown in above video. Which is just one of a couple of available paths. We learned about some graph theory, depth-first search, the call stack and how all of it applies to finding a path through a maze. I hope y’all enjoyed reading this article as much as I enjoyed writing it!
+  By now I’m sure you understand exactly how our traversal algorithm could generate the path. Which is just one of a couple of available paths. We learned about some    graph theory, depth-first search, the call stack and how all of it applies to finding a path through a maze. I hope You all enjoyed reading this article as much as I enjoyed writing it!
